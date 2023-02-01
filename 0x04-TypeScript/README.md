@@ -1,23 +1,23 @@
-#Basic types in Typescript
+# Basic types in Typescript
 
-#Interfaces, Classes, and functions
+# Interfaces, Classes, and functions
 
-#How to work with the DOM and Typescript
+# How to work with the DOM and Typescript
 
-#Generic types
+# Generic types
 
-#Basic types in Typescript
+# Basic types in Typescript
 
-#Interfaces, Classes, and functions
+# Interfaces, Classes, and functions
 
-#How to work with the DOM and Typescript
+# How to work with the DOM and Typescript
 
-#Generic types
+# Generic types
 
-#How to use namespaces
+# How to use namespaces
 
-#How to merge declarations
+# How to merge declarations
 
-#How to use an ambient Namespace to import an external library
+# How to use an ambient Namespace to import an external library
 
-#Basic nominal typing with Typescript
+# Basic nominal typing with Typescript
